@@ -1,0 +1,2 @@
+Mi nombre es Mateo Arias (AKA MattArias2226 in GitHub).
+Estudio ingenieria en Sistemas y estoy actualmente cursando materias del 4to semestre (Base de Datos 1, Fundamentos en Ingenieria de Software, Sistemas Operativos, etc)
